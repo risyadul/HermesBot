@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-09T17:20:23Z",
+  "title": "Design System: HermesBot",
+  "extensions": {
+    "colorMeta": {
+      "graphite": {
+        "role": "neutral",
+        "displayName": "Graphite Stock",
+        "canonical": "#202421",
+        "tonalRamp": ["oklch(15% 0.003 153.3)", "oklch(26% 0.005 153.3)", "oklch(37% 0.007 153.3)", "oklch(48% 0.008 153.3)", "oklch(60% 0.008 153.3)", "oklch(72% 0.006 153.3)", "oklch(84% 0.004 153.3)", "oklch(95% 0.001 153.3)"]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Press Paper",
+        "canonical": "#e7e5dc",
+        "tonalRamp": ["oklch(15% 0.004 96.4)", "oklch(26% 0.007 96.4)", "oklch(37% 0.010 96.4)", "oklch(48% 0.012 96.4)", "oklch(60% 0.012 96.4)", "oklch(72% 0.010 96.4)", "oklch(84% 0.006 96.4)", "oklch(95% 0.002 96.4)"]
+      },
+      "primary": {
+        "role": "primary",
+        "displayName": "Acid Chartreuse",
+        "canonical": "#d8ff63",
+        "tonalRamp": ["oklch(15% 0.062 121.9)", "oklch(26% 0.107 121.9)", "oklch(37% 0.152 121.9)", "oklch(48% 0.185 121.9)", "oklch(60% 0.185 121.9)", "oklch(72% 0.148 121.9)", "oklch(84% 0.084 121.9)", "oklch(95% 0.026 121.9)"]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Acid Hover",
+        "canonical": "#c8ee50",
+        "tonalRamp": ["oklch(15% 0.061 121.9)", "oklch(26% 0.107 121.9)", "oklch(37% 0.152 121.9)", "oklch(48% 0.184 121.9)", "oklch(60% 0.184 121.9)", "oklch(72% 0.148 121.9)", "oklch(84% 0.084 121.9)", "oklch(95% 0.026 121.9)"]
+      },
+      "slate": {
+        "role": "secondary",
+        "displayName": "Utility Slate",
+        "canonical": "#668797",
+        "tonalRamp": ["oklch(15% 0.015 229.2)", "oklch(26% 0.026 229.2)", "oklch(37% 0.037 229.2)", "oklch(48% 0.044 229.2)", "oklch(60% 0.044 229.2)", "oklch(72% 0.036 229.2)", "oklch(84% 0.020 229.2)", "oklch(95% 0.006 229.2)"]
+      },
+      "coral": {
+        "role": "tertiary",
+        "displayName": "Registration Coral",
+        "canonical": "#d87763",
+        "tonalRamp": ["oklch(15% 0.042 32.7)", "oklch(26% 0.072 32.7)", "oklch(37% 0.103 32.7)", "oklch(48% 0.125 32.7)", "oklch(60% 0.125 32.7)", "oklch(72% 0.100 32.7)", "oklch(84% 0.057 32.7)", "oklch(95% 0.018 32.7)"]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Registration Line",
+        "canonical": "#b8b9af",
+        "tonalRamp": ["oklch(15% 0.005 111.3)", "oklch(26% 0.008 111.3)", "oklch(37% 0.011 111.3)", "oklch(48% 0.014 111.3)", "oklch(60% 0.014 111.3)", "oklch(72% 0.011 111.3)", "oklch(84% 0.006 111.3)", "oklch(95% 0.002 111.3)"]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Operational Muted",
+        "canonical": "#5d655f",
+        "tonalRamp": ["oklch(15% 0.005 153.4)", "oklch(26% 0.008 153.4)", "oklch(37% 0.011 153.4)", "oklch(48% 0.014 153.4)", "oklch(60% 0.014 153.4)", "oklch(72% 0.011 153.4)", "oklch(84% 0.006 153.4)", "oklch(95% 0.002 153.4)"]
+      },
+      "sidebar-muted": {
+        "role": "neutral",
+        "displayName": "Sidebar Muted",
+        "canonical": "#b5bcb4",
+        "tonalRamp": ["oklch(15% 0.005 141.8)", "oklch(26% 0.008 141.8)", "oklch(37% 0.011 141.8)", "oklch(48% 0.014 141.8)", "oklch(60% 0.014 141.8)", "oklch(72% 0.011 141.8)", "oklch(84% 0.006 141.8)", "oklch(95% 0.002 141.8)"]
+      },
+      "dark-rule": {
+        "role": "neutral",
+        "displayName": "Dark Rule",
+        "canonical": "#444a43",
+        "tonalRamp": ["oklch(15% 0.005 141.2)", "oklch(26% 0.008 141.2)", "oklch(37% 0.011 141.2)", "oklch(48% 0.014 141.2)", "oklch(60% 0.014 141.2)", "oklch(72% 0.011 141.2)", "oklch(84% 0.006 141.2)", "oklch(95% 0.002 141.2)"]
+      },
+      "sheet": {
+        "role": "neutral",
+        "displayName": "Sheet Stock",
+        "canonical": "#f0efe7",
+        "tonalRamp": ["oklch(15% 0.004 100.8)", "oklch(26% 0.006 100.8)", "oklch(37% 0.009 100.8)", "oklch(48% 0.011 100.8)", "oklch(60% 0.011 100.8)", "oklch(72% 0.009 100.8)", "oklch(84% 0.005 100.8)", "oklch(95% 0.002 100.8)"]
+      },
+      "topbar": {
+        "role": "neutral",
+        "displayName": "Topbar Stock",
+        "canonical": "#eeede5",
+        "tonalRamp": ["oklch(15% 0.004 100.8)", "oklch(26% 0.006 100.8)", "oklch(37% 0.009 100.8)", "oklch(48% 0.011 100.8)", "oklch(60% 0.011 100.8)", "oklch(72% 0.009 100.8)", "oklch(84% 0.005 100.8)", "oklch(95% 0.002 100.8)"]
+      },
+      "inspector": {
+        "role": "neutral",
+        "displayName": "Inspector Stock",
+        "canonical": "#deded4",
+        "tonalRamp": ["oklch(15% 0.004 106.7)", "oklch(26% 0.008 106.7)", "oklch(37% 0.011 106.7)", "oklch(48% 0.013 106.7)", "oklch(60% 0.013 106.7)", "oklch(72% 0.011 106.7)", "oklch(84% 0.006 106.7)", "oklch(95% 0.002 106.7)"]
+      },
+      "nav-hover": {
+        "role": "neutral",
+        "displayName": "Register Hover",
+        "canonical": "#2c322b",
+        "tonalRamp": ["oklch(15% 0.005 141.2)", "oklch(26% 0.009 141.2)", "oklch(37% 0.012 141.2)", "oklch(48% 0.015 141.2)", "oklch(60% 0.015 141.2)", "oklch(72% 0.012 141.2)", "oklch(84% 0.007 141.2)", "oklch(95% 0.002 141.2)"]
+      },
+      "nav-selected": {
+        "role": "neutral",
+        "displayName": "Register Selected",
+        "canonical": "#343b2d",
+        "tonalRamp": ["oklch(15% 0.009 129.3)", "oklch(26% 0.015 129.3)", "oklch(37% 0.021 129.3)", "oklch(48% 0.026 129.3)", "oklch(60% 0.026 129.3)", "oklch(72% 0.020 129.3)", "oklch(84% 0.012 129.3)", "oklch(95% 0.004 129.3)"]
+      },
+      "bot-slate": {
+        "role": "secondary",
+        "displayName": "Bot Slate",
+        "canonical": "#87aebe",
+        "tonalRamp": ["oklch(15% 0.016 225.0)", "oklch(26% 0.028 225.0)", "oklch(37% 0.040 225.0)", "oklch(48% 0.048 225.0)", "oklch(60% 0.048 225.0)", "oklch(72% 0.038 225.0)", "oklch(84% 0.022 225.0)", "oklch(95% 0.007 225.0)"]
+      },
+      "bot-blue": {
+        "role": "secondary",
+        "displayName": "Bot Blue",
+        "canonical": "#89a7c5",
+        "tonalRamp": ["oklch(15% 0.018 248.6)", "oklch(26% 0.032 248.6)", "oklch(37% 0.045 248.6)", "oklch(48% 0.055 248.6)", "oklch(60% 0.055 248.6)", "oklch(72% 0.044 248.6)", "oklch(84% 0.025 248.6)", "oklch(95% 0.008 248.6)"]
+      },
+      "bot-sand": {
+        "role": "secondary",
+        "displayName": "Bot Sand",
+        "canonical": "#d7c47f",
+        "tonalRamp": ["oklch(15% 0.030 94.5)", "oklch(26% 0.053 94.5)", "oklch(37% 0.075 94.5)", "oklch(48% 0.091 94.5)", "oklch(60% 0.091 94.5)", "oklch(72% 0.073 94.5)", "oklch(84% 0.042 94.5)", "oklch(95% 0.013 94.5)"]
+      }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Connection, empty-roster, and error headlines on the central sheet." },
+      "bot-title": { "displayName": "Bot Title", "purpose": "Selected bot identity on the bot sheet." },
+      "body": { "displayName": "Body", "purpose": "Sheet explanation and bot descriptions, capped at 55ch." },
+      "supporting": { "displayName": "Supporting", "purpose": "Job-ticket explanation and inspector values." },
+      "nav-title": { "displayName": "Navigation Title", "purpose": "Bot names, document titles, and inspector headings." },
+      "action": { "displayName": "Action", "purpose": "Primary-action labels." }
+    },
+    "shadows": [
+      { "name": "working-paper", "value": "7px 9px 24px #2024211c", "purpose": "The centered connection or bot sheet above the registration grid." },
+      { "name": "modal-search", "value": "0 16px 50px #0005", "purpose": "The dark search dialog above the workspace overlay." }
+    ],
+    "motion": [
+      { "name": "control-transition", "value": "background-color 120ms ease-out, border-color 120ms ease-out", "purpose": "Bot-row, primary-action, and text-button state changes; only with no motion preference." },
+      { "name": "sheet-in", "value": "220ms cubic-bezier(.16, 1, .3, 1)", "purpose": "Connection and bot sheets enter from opacity .6 and translateY(8px); only with no motion preference." },
+      { "name": "dialog-in", "value": "160ms cubic-bezier(.16, 1, .3, 1)", "purpose": "Search enters from opacity .7 and translateY(-6px); only with no motion preference." },
+      { "name": "connecting-turn", "value": "900ms linear infinite", "purpose": "The refresh icon rotates only while connecting and only with no motion preference." }
+    ],
+    "breakpoints": [
+      { "name": "compact-desktop", "value": "1050px" },
+      { "name": "inspector-collapse", "value": "850px" },
+      { "name": "small-window", "value": "620px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Action",
+      "kind": "button",
+      "refersTo": "primary-action",
+      "description": "The single high-emphasis connection, retry, or register-refresh action.",
+      "html": "<button class=\"ds-primary-action\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-5-5 5 5-5 5\" /></svg>Connect to Hermes</button>",
+      "css": ".ds-primary-action { display: inline-flex; align-items: center; justify-content: center; gap: 9px; min-height: 40px; padding: 9px 15px; color: var(--graphite); background: var(--acid); border: 1px solid #9ab53e; border-radius: 4px; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; font-size: 16px; font-weight: 750; } .ds-primary-action:hover:not(:disabled) { background: #c8ee50; } .ds-primary-action:focus-visible { outline: 2px solid var(--acid); outline-offset: 3px; } .ds-primary-action:disabled { color: #74796e; background: #d6d7cb; border-color: #b7baad; } .ds-icon { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; } @media (prefers-reduced-motion: no-preference) { .ds-primary-action { transition: background-color 120ms ease-out, border-color 120ms ease-out; } }"
+    },
+    {
+      "name": "Bot Register Row",
+      "kind": "nav",
+      "refersTo": "bot-row-selected",
+      "description": "A backend-loaded bot with deterministic identity color, truncation, default marker, and selected registration rule.",
+      "html": "<div class=\"ds-bot-register\"><button class=\"ds-bot-row ds-selected\" aria-pressed=\"true\"><span class=\"ds-avatar ds-acid\">HE</span><span class=\"ds-bot-copy\"><strong>Hermes</strong><small>Backend default</small></span><span class=\"ds-default-mark\" title=\"Default bot\">D</span></button></div>",
+      "css": ".ds-bot-register { background: var(--graphite); } .ds-bot-row { display: flex; align-items: center; gap: 10px; width: 100%; padding: 8px 13px; color: var(--paper); text-align: left; background: transparent; border: 0; border-left: 3px solid transparent; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-bot-row:hover { background: #2c322b; } .ds-bot-row.ds-selected { background: #343b2d; border-left-color: var(--acid); } .ds-bot-row:focus-visible { outline: 2px solid var(--acid); outline-offset: 3px; } .ds-avatar { display: grid; place-items: center; flex: none; width: 31px; height: 31px; color: #202421; border: 1px solid #161b17; border-radius: 4px; font-size: 10px; font-weight: 800; } .ds-avatar.ds-acid { background: var(--acid); } .ds-bot-copy { min-width: 0; flex: 1; } .ds-bot-copy strong, .ds-bot-copy small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; } .ds-bot-copy strong { font-size: 13px; } .ds-bot-copy small { margin-top: 3px; color: var(--sidebar-muted); font-size: 11px; } .ds-default-mark { color: var(--acid); font-size: 9px; border: 1px solid #69734c; padding: 2px 4px; } @media (prefers-reduced-motion: no-preference) { .ds-bot-row { transition: background-color 120ms ease-out, border-color 120ms ease-out; } }"
+    },
+    {
+      "name": "Connection Sheet",
+      "kind": "custom",
+      "refersTo": "connection-sheet",
+      "description": "The operational job ticket for idle, connecting, connected, empty-roster, and error states.",
+      "html": "<section class=\"ds-connection-sheet\" aria-labelledby=\"ds-connection-title\"><div class=\"ds-sheet-register\"><span>Hermes / local service</span><span>AWAITING CONNECTION</span></div><div class=\"ds-sheet-body\"><div class=\"ds-sheet-index\" aria-hidden=\"true\">01</div><div class=\"ds-sheet-copy\"><h1 id=\"ds-connection-title\">Bring your bots to the desk.</h1><p>HermesBot attaches to an existing backend on this machine. Your profiles, credentials, and conversations stay with Hermes.</p></div></div><div class=\"ds-sheet-action\"><button class=\"ds-primary-action\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-5-5 5 5-5 5\" /></svg>Connect to Hermes</button><span>Select a bot from the register to continue.</span></div><div class=\"ds-sheet-foot\"><span>LOOPBACK ONLY</span><span>TOKEN-SAFE ERRORS</span><span>BACKEND AUTHORITATIVE</span></div></section>",
+      "css": ".ds-connection-sheet { width: min(660px, 100%); color: var(--graphite); background: #f0efe7; border: 1px solid #8c9187; box-shadow: 7px 9px 24px #2024211c; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-sheet-register { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; color: #e7e5dc; background: var(--graphite); font-size: 9px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; } .ds-sheet-body { display: grid; grid-template-columns: 76px 1fr; min-height: 230px; } .ds-sheet-index { display: grid; place-items: center; color: #687064; border-right: 1px solid var(--line); font-size: 42px; font-weight: 650; letter-spacing: -.05em; font-variant-numeric: tabular-nums; } .ds-sheet-copy { padding: 42px 36px 32px; } .ds-sheet-copy h1 { margin: 0 0 16px; font-size: clamp(28px, 3vw, 40px); line-height: 1.06; letter-spacing: -.045em; text-wrap: balance; } .ds-sheet-copy p { max-width: 55ch; margin: 0; color: var(--muted); font-size: 14px; line-height: 1.62; } .ds-sheet-action { display: flex; align-items: center; gap: 18px; padding: 18px 22px; border-top: 1px solid var(--line); } .ds-primary-action { display: inline-flex; align-items: center; justify-content: center; gap: 9px; flex: none; min-height: 40px; padding: 9px 15px; color: var(--graphite); background: var(--acid); border: 1px solid #9ab53e; border-radius: 4px; font-weight: 750; } .ds-primary-action:hover { background: #c8ee50; } .ds-primary-action:focus-visible { outline: 2px solid var(--acid); outline-offset: 3px; } .ds-sheet-action > span { max-width: 32ch; color: #535b54; font-size: 12px; line-height: 1.45; } .ds-sheet-foot { display: flex; justify-content: space-between; gap: 8px; padding: 10px 14px; color: #515952; border-top: 1px solid var(--line); font-size: 9px; font-weight: 700; letter-spacing: .06em; } .ds-icon { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; } @media (prefers-reduced-motion: no-preference) { .ds-connection-sheet { animation: ds-sheet-in 220ms cubic-bezier(.16, 1, .3, 1); } .ds-primary-action { transition: background-color 120ms ease-out, border-color 120ms ease-out; } } @keyframes ds-sheet-in { from { opacity: .6; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }"
+    },
+    {
+      "name": "Bot Sheet",
+      "kind": "custom",
+      "refersTo": "bot-sheet",
+      "description": "A backend-truthful bot profile sheet with a static availability ticket, not a working chat.",
+      "html": "<section class=\"ds-bot-sheet\" aria-labelledby=\"ds-bot-title\"><div class=\"ds-sheet-register\"><span>Bot registration</span><span>DEFAULT PROFILE</span></div><div class=\"ds-bot-identity\"><span class=\"ds-avatar ds-large ds-acid\">HE</span><div><h1 id=\"ds-bot-title\">Hermes</h1><p>Backend-provided bot description.</p></div></div><div class=\"ds-job-ticket\"><span class=\"ds-ticket-label\">Next available job</span><div class=\"ds-ticket-track\"><span class=\"ds-complete\">Profile loaded</span><i></i><span>Bot Chat</span><i></i><span>Reply</span></div><p>Bot Chat is not implemented yet. This profile is live backend data; no conversation has been created.</p></div><button class=\"ds-primary-action\" disabled title=\"Bot Chat is not implemented yet\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 5v14M5 12h14\" /></svg>Bot Chat coming next</button></section>",
+      "css": ".ds-bot-sheet { width: min(660px, 100%); padding-bottom: 24px; color: var(--graphite); background: #f0efe7; border: 1px solid #8c9187; box-shadow: 7px 9px 24px #2024211c; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-sheet-register { display: flex; justify-content: space-between; gap: 12px; padding: 10px 14px; color: #e7e5dc; background: var(--graphite); font-size: 9px; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; } .ds-bot-identity { display: flex; align-items: center; gap: 20px; padding: 30px; } .ds-avatar { display: grid; place-items: center; flex: none; color: #202421; border: 1px solid #161b17; font-weight: 800; } .ds-avatar.ds-large { width: 62px; height: 62px; font-size: 18px; border-radius: 5px; } .ds-avatar.ds-acid { background: var(--acid); } .ds-bot-identity h1 { margin: 0 0 10px; font-size: 34px; line-height: 1.06; letter-spacing: -.045em; } .ds-bot-identity p { max-width: 55ch; margin: 0; color: var(--muted); font-size: 14px; line-height: 1.62; } .ds-job-ticket { margin: 0 30px 24px; padding: 17px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); } .ds-ticket-label { display: block; margin-bottom: 14px; color: var(--muted); font-size: 10px; font-weight: 700; text-transform: uppercase; letter-spacing: .07em; } .ds-ticket-track { display: flex; align-items: center; gap: 10px; font-size: 12px; } .ds-ticket-track span { white-space: nowrap; } .ds-ticket-track .ds-complete { font-weight: 800; } .ds-ticket-track .ds-complete:before { content: \"\"; display: inline-block; width: 8px; height: 8px; margin-right: 7px; background: var(--acid); border: 1px solid #889f46; border-radius: 50%; } .ds-ticket-track i { flex: 1; height: 1px; background: #a9aea2; } .ds-job-ticket p { margin: 14px 0 0; color: var(--muted); font-size: 12px; line-height: 1.5; } .ds-primary-action { display: inline-flex; align-items: center; justify-content: center; gap: 9px; min-height: 40px; margin-left: 30px; padding: 9px 15px; border-radius: 4px; font-weight: 750; } .ds-primary-action:disabled { color: #74796e; background: #d6d7cb; border: 1px solid #b7baad; } .ds-icon { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; } @media (prefers-reduced-motion: no-preference) { .ds-bot-sheet { animation: ds-sheet-in 220ms cubic-bezier(.16, 1, .3, 1); } } @keyframes ds-sheet-in { from { opacity: .6; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }"
+    },
+    {
+      "name": "Workspace Inspector",
+      "kind": "custom",
+      "refersTo": "inspector",
+      "description": "A narrow, ruled context column for backend service facts or the selected bot profile.",
+      "html": "<aside class=\"ds-inspector\" aria-label=\"Workspace details\"><div class=\"ds-inspector-heading\"><strong>Registration notes</strong><span>BOT</span></div><dl><div><dt>Profile name</dt><dd>hermes</dd></div><div><dt>Model</dt><dd>Backend default</dd></div><div><dt>Provider</dt><dd>Backend default</dd></div><div><dt>Skills</dt><dd>Not reported</dd></div><div><dt>Session</dt><dd>No session created</dd></div></dl><div class=\"ds-inspector-note\"><span>Registration rule</span><p>Profile details come directly from Hermes. Bot editing is not enabled in this milestone.</p></div></aside>",
+      "css": ".ds-inspector { width: 280px; overflow-y: auto; padding: 20px 18px; color: var(--graphite); background: #deded4; border-left: 1px solid var(--line); font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-inspector-heading { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; } .ds-inspector-heading strong { font-size: 13px; } .ds-inspector-heading span { color: var(--muted); font-size: 9px; letter-spacing: .1em; } .ds-inspector dl { margin: 0; } .ds-inspector dl > div { padding: 13px 0; border-top: 1px solid var(--line); } .ds-inspector dt { margin-bottom: 6px; color: var(--muted); font-size: 10px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; } .ds-inspector dd { margin: 0; font-size: 12px; line-height: 1.5; overflow-wrap: anywhere; } .ds-inspector-note { margin-top: 28px; padding-top: 14px; border-top: 1px solid var(--line); } .ds-inspector-note span { color: var(--muted); font-size: 10px; text-transform: uppercase; letter-spacing: .06em; } .ds-inspector-note p { margin: 7px 0 0; color: var(--muted); font-size: 11px; line-height: 1.55; }"
+    },
+    {
+      "name": "Bot Search Dialog",
+      "kind": "input",
+      "refersTo": "search-dialog",
+      "description": "A focused graphite search dialog with backend-loaded bot results and explicit no-match behavior.",
+      "html": "<section class=\"ds-search-dialog\" role=\"dialog\" aria-modal=\"true\" aria-label=\"Find a bot\"><div class=\"ds-search-field\"><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><circle cx=\"10.5\" cy=\"10.5\" r=\"5.5\" /><path d=\"m15 15 4 4\" /></svg><input value=\"\" placeholder=\"Find a bot by name or description…\" aria-label=\"Find a bot\" /><kbd>ESC</kbd></div><div class=\"ds-search-results\"><button class=\"ds-bot-row\"><span class=\"ds-avatar ds-acid\">HE</span><span class=\"ds-bot-copy\"><strong>Hermes</strong><small>Backend default</small></span><svg class=\"ds-icon\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 12h14m-5-5 5 5-5 5\" /></svg></button></div></section>",
+      "css": ".ds-search-dialog { width: min(560px, calc(100vw - 40px)); color: var(--paper); background: var(--graphite); border: 1px solid #68705f; box-shadow: 0 16px 50px #0005; font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", sans-serif; } .ds-search-field { display: flex; align-items: center; gap: 10px; padding: 14px; border-bottom: var(--rule); } .ds-search-field input { flex: 1; min-width: 0; color: var(--paper); background: transparent; border: 0; outline: 0; font: inherit; } .ds-search-field input::placeholder { color: var(--sidebar-muted); } .ds-search-field input:focus-visible { outline: 2px solid var(--acid); outline-offset: 4px; } .ds-search-field kbd { color: var(--sidebar-muted); font: 10px ui-monospace, monospace; } .ds-search-results { max-height: 350px; overflow-y: auto; padding: 8px 0; } .ds-bot-row { display: flex; align-items: center; gap: 10px; width: 100%; padding: 8px 13px; color: inherit; text-align: left; background: transparent; border: 0; border-left: 3px solid transparent; } .ds-bot-row:hover { background: #2c322b; } .ds-bot-row:focus-visible { outline: 2px solid var(--acid); outline-offset: 3px; } .ds-avatar { display: grid; place-items: center; flex: none; width: 31px; height: 31px; color: #202421; border: 1px solid #161b17; border-radius: 4px; font-size: 10px; font-weight: 800; } .ds-avatar.ds-acid { background: var(--acid); } .ds-bot-copy { min-width: 0; flex: 1; } .ds-bot-copy strong, .ds-bot-copy small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; } .ds-bot-copy strong { font-size: 13px; } .ds-bot-copy small { margin-top: 3px; color: var(--sidebar-muted); font-size: 11px; } .ds-icon { width: 17px; height: 17px; fill: none; stroke: currentColor; stroke-width: 1.7; stroke-linecap: round; stroke-linejoin: round; flex: none; } @media (prefers-reduced-motion: no-preference) { .ds-search-dialog { animation: ds-dialog-in 160ms cubic-bezier(.16, 1, .3, 1); } .ds-bot-row { transition: background-color 120ms ease-out, border-color 120ms ease-out; } } @keyframes ds-dialog-in { from { opacity: .7; transform: translateY(-6px); } to { opacity: 1; transform: translateY(0); } }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Live Press Sheet",
+    "overview": "HermesBot is an Operate-mode desktop workspace: a bot register, a central job sheet, and an optional inspector. Its visual identity comes from the language of a live production sheet—compact, accounted for, and directly tied to the local Hermes backend—rather than a marketing hero, generic developer console, or mosaic of decorative cards.\n\nGraphite ink fields sit against off-white stock. Acid chartreuse is a sparse operational signal, while bot-owned colors remain visible in avatars. Fine registration rules, square sheets, compact type, and small-radius controls provide structure without ornamental illustration, glass, blur, or decorative gradient washes. The workspace does use two CSS `linear-gradient` declarations, but only as hard-stop 1px registration-grid lines on a 32px grid; they are not color-fade surfaces.\n\nMotion is brief and state-led: 120ms control transitions, 220ms sheet entry, 160ms dialog entry, and a 900ms connecting indicator. All are gated behind `prefers-reduced-motion: no-preference`. Static connection and error states do not need motion to appear active.",
+    "keyCharacteristics": [
+      "Operational press sheets with visible registration, state, and recovery.",
+      "Sparse acid signals alongside deterministic bot identity colors.",
+      "Flat graphite and paper fields, fine rules, square sheets, and small-radius controls.",
+      "Compact system-sans typography with tight headlines and readable explanatory copy.",
+      "Backend-truthful states, responsive shell constraints, and reduced-motion support."
+    ],
+    "rules": [
+      { "name": "The Acid Accountability Rule", "body": "Acid is a signal, not a surface wash: use it for the primary action, current selection, connected state, focus, selection, and the small brand mark, never as a full-page background.", "section": "colors" },
+      { "name": "The Bot Identity Rule", "body": "Preserve the avatar color derived from the bot's name; the product accent does not replace bot identity colors.", "section": "colors" },
+      { "name": "The Measured Line Rule", "body": "Keep explanatory sheet copy within 55ch and action help within 32ch; bot-row names and metadata truncate with ellipsis rather than disturbing the register.", "section": "typography" },
+      { "name": "The Flat Shell Rule", "body": "Use rules and stock changes for ordinary structure; reserve shadows for the central sheet and modal search.", "section": "elevation" }
+    ],
+    "dos": [
+      "Do use acid as a sparse action, selection, connection, or focus signal while preserving bot identity colors in avatars.",
+      "Do build structure from flat stock, square sheets, fine registration rules, and the established compact spacing rhythm.",
+      "Do keep empty, connecting, connected, error, and unavailable-workflow copy tied to real backend state and the next available action.",
+      "Do gate interface motion behind `prefers-reduced-motion: no-preference` and keep keyboard focus visible."
+    ],
+    "donts": [
+      "Don't add decorative gradient washes, glass, backdrop blur, ornamental illustrations, or a decorative card mosaic; the existing grid gradients are registration lines only.",
+      "Don't invent bots, rooms, messages, sessions, live ticket stages, or chat progress beyond what the backend and implementation report.",
+      "Don't generalize the incumbent 9–10px all-caps register labels into a microtype, kicker, or eyebrow system.",
+      "Don't expose an inactive Details control below 850px; hide it with the inspector. Don't leave dialog background controls tabbable or lose focus to the invoking control on close."
+    ]
+  }
+}
